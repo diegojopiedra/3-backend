@@ -1,0 +1,12 @@
+{
+    "name": "diego/3-backend",
+    "description": "Simple PHP backend for backend-less",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diego Piedra",
+            "email": "diegojopiedra@gmail.com"
+        }
+    ],
+    "require": {}
+}
