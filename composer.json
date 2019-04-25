@@ -1,6 +1,6 @@
 {
     "name": "diego/3-backend",
-    "description": "Simple PHP backend for backend-less",
+    "description": "Simple PHP backend for backend-less applications",
     "license": "MIT",
     "authors": [
         {
@@ -8,5 +8,10 @@
             "email": "diegojopiedra@gmail.com"
         }
     ],
+    "autoload": {
+      "psr-4": {
+        "SRC\\": "src/"
+      }
+    },
     "require": {}
 }
